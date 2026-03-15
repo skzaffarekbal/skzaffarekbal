@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sk Zaffar Ekbal
-- 👨‍💻 Frontend / Full Stack Engineer** · React • Next.js • JavaScript • TypeScript • Node.js
+- 👨‍💻 Frontend / Full Stack Engineer • React • Next.js • JavaScript • TypeScript • Node.js
 - 🔭 I’m currently working on BidonHome.com
 
 - 📫 How to reach me:
