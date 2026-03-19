@@ -10,9 +10,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=skzaffarekbal&color=1a56db&style=flat-square" alt="Profile Views" />
-</div>
+</div> -->
 
 
 <!--
